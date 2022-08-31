@@ -84,9 +84,9 @@ def clear():
 def back():
 	login()
 
-Bilal="TUNIO-"
-imt="-Bilal4786=="
-Tunio="Lover-"
+Bilal="Bilal-"
+imt="-Busra4786=="
+ak="Lover-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrBilal-cov', 'r').read()
@@ -113,7 +113,7 @@ def login():
 def jalan(z):
 	for e in z + '\n':
 		sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
-############### #BILAL############## ## 
+############### #LOGO############## ## 
 
 # LOGIN
 def Public():
@@ -388,28 +388,25 @@ def follow(ses,coki):
 	ses.get(('https://mbasic.facebook.com' + str(get)), cookies={'cookie': coki}).text
 
 logo = ("""\033[1;32m
-       
-               
-               
-                      
 
-  
-____ _____ _               _      
- |  _ \_   _| |        /\   | |     
- | |_) || | | |       /  \  | |     
- |  _ < | | | |      / /\ \ | |     
- | |_) || |_| |____ / ____ \| |____ 
- |____/_____|______/_/    \_\______|
-                                   
-          
-                                            \TUNIO TH3 BR4ND ❤️
+       (    (              (      
+   (   )\ ) )\ )    (      )\ )   
+ ( )\ (()/((()/(    )\    (()/(   
+ )((_) /(_))/(_))((((_)(   /(_))  
+((_)_ (_)) (_))   )\ _ )\ (_))    
+ | _ )|_ _|| |    (_)_\(_)| |     
+ | _ \ | | | |__   / _ \  | |__   
+ |___/|___||____| /_/ \_\ |____|  
+                                  
+        
+                                            \TUNIO TH3 BR4ND ❤️🙂
 __________________×______________________
   
-  Owner   :  BILAL TUNIO [FUCKER BOY 😈]
+  Owner   :  BILAL TUNIO [FUCKER BOY😈]
  
   Github   :  tuniobilal
 
-  Facebook : Muhammad Bilal 
+  Facebook : Hadi Anhaf
   
   Youtube : TECHNICAL BILAL- TERMUX TEACH 
   
@@ -418,9 +415,9 @@ __________________×______________________\033[1;37m""")
 
 class Main:
 	def __init__(self):
-		self.id = [Bilal]
-		self.ok = [Bilal]
-		self.cp = [Bilal]
+		self.id = []
+		self.ok = []
+		self.cp = []
 		self.loop = 0
 		os.system("clear")
 		print(logo)
@@ -1269,7 +1266,7 @@ class Main:
 			"Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36[FBAN/EMA;FBLC/it_IT;FBAV/239.0.0.10.109;]"
 		])
 		sys.stdout.write(
-			"\r [ Bilal ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
+			"\r [Bilal ] %s/%s -> Ok:-%s - Cp:-%s "%(self.loop, len(self.id), len(self.cp), len(self.ok))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
@@ -1332,7 +1329,7 @@ def Subscraption():
 		print ("")
 		input(" Press Enter To Send Key")
 		time.sleep(3.5)
-		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+Akash+''+key1
-		os.system('am start https://wa.me/+9231902672?text=' + tks)
+		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+Bilal+''+key1
+		os.system('am start https://wa.me/+8801304002896?text=' + tks)
 		Subscraption()        
 Main()
